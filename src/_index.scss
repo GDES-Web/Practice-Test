@@ -11,11 +11,11 @@
     font-weight: 400;
     font-size: 20px;
     line-height: 2.0;
-    color: #00897b;
+    color: rgb(0, 0, 0);
   }
   
   header {
-    background-color:#00897B;
+    background-color:antiquewhite;
     box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
     padding: 20px;
     position: fixed;
@@ -40,7 +40,7 @@
   
   nav a {
     text-decoration: none;
-    color: #ffff;
+    color: #8b2020;
     transition: color 0.2s ease-in-out;
   }
   
